@@ -59,13 +59,13 @@ const Navbar = () => {
   return (
 		<Container>
 			<Content>
-			<MenuItem target="introduction">
+			<MenuItem target="overview">
 				<LogoContainer>
 					<Logo src={logo} />
 				</LogoContainer>
 			</MenuItem>
 			<Menu>
-				<MenuItem target="introduction">Introduction</MenuItem>
+				<MenuItem target="overview">Overviw</MenuItem>
 				<MenuItem target="communications">Communications</MenuItem>
 				<MenuItem target="whiskers">Whiskers</MenuItem>
 				<MenuItem target="credits">Credits</MenuItem>
