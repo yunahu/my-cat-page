@@ -23,11 +23,10 @@ const Credits = () => {
 							<Photo src={cat} />
 						</PhotoContainer>
 						<SectionContent>
-							Source for the favicon used in this website
+							The favicon used in this website
 							<p>
-							Favicon source: <a target="_blank" href="https://www.flaticon.com/free-icon/cat_1864514?term=cat&page=1&position=2&origin=tag&related_id=1864514">flaticon.com</a>
+								By <a target="_blank" href="https://www.freepik.com/">Freepik</a> on <a target="_blank" href="https://www.flaticon.com/free-icon/cat_1864514?term=cat&page=1&position=2&origin=tag&related_id=1864514">Flaticon</a>.
 							</p>
-							By Freepik (<a target="_blank" href="https://www.freepik.com/">Freepik.com</a>)
 						</SectionContent>
 					</SectionContentContainer>
 			</Section>
