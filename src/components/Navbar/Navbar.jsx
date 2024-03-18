@@ -25,6 +25,10 @@ const LogoContainer = styled.div`
 
 const Logo = styled.img`
 	width: 180px;
+
+	&:hover {
+    cursor: pointer;
+  }
 `;
 
 const Menu = styled.div`
@@ -40,6 +44,10 @@ const MenuItemContent = styled.div`
 	height: 100%;
 	color: ${props => props.theme.black};
 	text-decoration: none;
+
+	&:hover {
+    cursor: pointer;
+  }
 `;
 
 const MenuItem = (props) => {
