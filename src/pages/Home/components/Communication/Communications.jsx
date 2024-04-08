@@ -31,7 +31,7 @@ Domestic cats observed in a rescue facility have total of 276 distinct facial ex
 							</p>
 						</SectionContent>
 						<PhotoContainer>
-							<Photo src={meow} />
+							<Photo src={meow} alt="a meowing cat" />
 								Photo by Jae Park on  <a target="_blank" href="https://unsplash.com/photos/brown-tabby-cat-7GX5aICb5i4">Unsplash</a>
 						</PhotoContainer>
 					</SectionContentContainer>

@@ -69,11 +69,11 @@ const Navbar = () => {
 			<Content>
 			<MenuItem target="overview">
 				<LogoContainer>
-					<Logo src={logo} />
+					<Logo src={logo} alt="my cat page logo" />
 				</LogoContainer>
 			</MenuItem>
 			<Menu>
-				<MenuItem target="overview">Overviw</MenuItem>
+				<MenuItem target="overview">Overveiw</MenuItem>
 				<MenuItem target="communications">Communications</MenuItem>
 				<MenuItem target="whiskers">Whiskers</MenuItem>
 				<MenuItem target="credits">Credits</MenuItem>

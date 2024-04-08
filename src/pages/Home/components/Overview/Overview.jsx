@@ -19,7 +19,7 @@ const Overview = () => {
 				</SectionTitle>
 					<SectionContentContainer>
 						<PhotoContainer>
-							<Photo src={blue} />
+							<Photo src={blue} alt="an orange cat with green eyes" />
 							Photo by Cedric VT on <a target="_blank" href="https://unsplash.com/photos/silver-tabby-cat-IuJc2qh2TcA">Unsplash</a>
 						</PhotoContainer>
 						<SectionContent>

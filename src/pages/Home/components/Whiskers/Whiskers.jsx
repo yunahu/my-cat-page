@@ -19,7 +19,7 @@ const Whiskers = () => {
 				</SectionTitle>
 					<SectionContentContainer>
 						<PhotoContainer>
-							<Photo src={box} />
+							<Photo src={box} alt="An orange cat in a box" />
 								Photo by Timo Volz on <a target="_blank" href="https://unsplash.com/photos/orange-tabby-cat-in-brown-cardboard-box-mrTydVjg04o">Unsplash</a>
 						</PhotoContainer>
 						<SectionContent>

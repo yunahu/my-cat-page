@@ -20,7 +20,7 @@ const Credits = () => {
 				</SectionTitle>
 					<SectionContentContainer>
 						<PhotoContainer>
-							<Photo src={cat} />
+							<Photo src={cat} alt="a cat icon" />
 						</PhotoContainer>
 						<SectionContent>
 							The favicon used in this website
