@@ -73,7 +73,7 @@ const Navbar = () => {
 				</LogoContainer>
 			</MenuItem>
 			<Menu>
-				<MenuItem target="overview">Overveiw</MenuItem>
+				<MenuItem target="overview">Overview</MenuItem>
 				<MenuItem target="communications">Communications</MenuItem>
 				<MenuItem target="whiskers">Whiskers</MenuItem>
 				<MenuItem target="credits">Credits</MenuItem>
