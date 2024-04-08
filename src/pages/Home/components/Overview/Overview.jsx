@@ -1,6 +1,6 @@
 import { SectionContainer, Section, SectionTitle, SectionContentContainer, SectionContent } from "src/components/Layout/Layout";
 import styled from "styled-components";
-import blue from "src/assets/images/blue.jpg";
+import blue from "src/assets/images/blue.webp";
 
 const Photo = styled.img`
 	height: 400px;

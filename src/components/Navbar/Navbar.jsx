@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import logo from "src/assets/images/logo.png";
+import logo from "src/assets/images/logo.webp";
 
 const Container = styled.div`
 	position: fixed;

@@ -1,6 +1,6 @@
 import { SectionContainer, Section, SectionTitle, SectionContentContainer, SectionContent } from "src/components/Layout/Layout";
 import styled from "styled-components";
-import meow from "src/assets/images/meow.jpg";
+import meow from "src/assets/images/meow.webp";
 
 const Photo = styled.img`
 	height: 400px;
