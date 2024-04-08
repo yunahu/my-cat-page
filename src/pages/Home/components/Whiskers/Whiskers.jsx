@@ -27,7 +27,7 @@ const Whiskers = () => {
 							<p>
 								Source: 
 								<a target="_blank" href="https://en.wikipedia.org/wiki/Cat#Whiskers">Wikipedia - Cat Whiskers</a>
-						</p>
+							</p>
 						</SectionContent>
 					</SectionContentContainer>
 			</Section>
