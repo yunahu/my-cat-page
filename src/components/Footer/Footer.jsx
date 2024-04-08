@@ -32,7 +32,7 @@ const Footer = (props) => {
     <Container>
       <Email>yhu45@mylangara.ca</Email>
       <Copyright>
-				<img src={copyrightIcon} alt="copyright symbol"/>
+				<img src={copyrightIcon} alt="copyright symbol" width={16} height={16}/>
 				&nbsp;yunahu &nbsp;ALL RIGHTS RESERVED</Copyright>
     </Container>
   );

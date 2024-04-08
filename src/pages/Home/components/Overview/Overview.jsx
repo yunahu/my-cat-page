@@ -4,6 +4,7 @@ import blue from "src/assets/images/blue.webp";
 
 const Photo = styled.img`
 	height: 400px;
+	width: 400px;
 `;
 
 const PhotoContainer = styled.div`

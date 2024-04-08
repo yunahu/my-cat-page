@@ -25,6 +25,7 @@ const LogoContainer = styled.div`
 
 const Logo = styled.img`
 	width: 180px;
+	height: 43px;
 
 	&:hover {
     cursor: pointer;

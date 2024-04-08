@@ -4,6 +4,7 @@ import box from "src/assets/images/box.webp";
 
 const Photo = styled.img`
 	height: 400px;
+	width: 267px;
 `;
 
 const PhotoContainer = styled.div`

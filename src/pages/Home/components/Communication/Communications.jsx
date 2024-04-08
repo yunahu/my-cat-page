@@ -4,6 +4,7 @@ import meow from "src/assets/images/meow.webp";
 
 const Photo = styled.img`
 	height: 400px;
+	width: 266px;
 `;
 
 const PhotoContainer = styled.div`

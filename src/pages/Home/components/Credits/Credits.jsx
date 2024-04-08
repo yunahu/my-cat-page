@@ -4,6 +4,7 @@ import cat from "src/assets/images/cat.webp";
 
 const Photo = styled.img`
 	height: 400px;
+	width: 400px;
 	margin-top: 20px;
 `;
 
